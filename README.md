@@ -1,1 +1,1 @@
-# KNN
+# K-mean algorithm
